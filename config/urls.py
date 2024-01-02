@@ -1,8 +1,5 @@
 """
 
-Developed By : naem azam
-facebook : fb.com/naemazamchowdhury
-Youtube :youtube.com/TheTerminalBoy
 
 
 """

@@ -55,7 +55,7 @@ MIDDLEWARE = [
 
 ]
 
-ROOT_URLCONF = 'ecommerce.urls'
+ROOT_URLCONF = 'config.urls'
 
 TEMPLATES = [
     {
